@@ -1,0 +1,145 @@
+/*
+ * Dark theme inspired by Uma Musume's in-game UI. The palette uses
+ * muted blues and purples with high contrast text for readability. All
+ * elements inherit these colours by default so you don't need to
+ * micromanage colours in the React components.
+ */
+:root {
+  --bg: #15192b;
+  --panel: #1e253d;
+  --primary: #4d6ee3;
+  --secondary: #9875b7;
+  --text: #f5f5f5;
+  --muted-text: #a4b0d0;
+  --accent: #88ccf1;
+  --danger: #e06c75;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+label {
+  display: block;
+  margin-bottom: 0.15rem;
+  font-weight: bold;
+  color: var(--accent);
+  font-size: 0.85rem;
+}
+
+/* Global defaults for inputs - components can override without !important */
+input[type="text"],
+input[type="number"],
+select {
+  border: 2px solid #2b3658;
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text);
+  box-sizing: border-box;
+  font-size: 0.9rem;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(77, 110, 227, 0.1);
+}
+
+input[type="text"]:hover,
+input[type="number"]:hover,
+select:hover {
+  border-color: var(--primary);
+}
+
+select {
+  cursor: pointer;
+  padding: 0.6rem;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23a4b0d0' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  padding-right: 2rem;
+}
+
+select option {
+  background: var(--panel);
+  color: var(--text);
+}
+
+/* Sensible defaults for form elements NOT in specific component containers */
+/* Components with specific needs will override these naturally */
+.card > div > input[type="text"]:not([class]),
+.card > div > input[type="number"]:not([class]),
+.card > div > select:not([class]) {
+  width: 100%;
+  padding: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+button {
+  background: var(--primary);
+  border: none;
+  padding: 0.5rem 1rem;
+  color: var(--text);
+  font-size: 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover:not([disabled]) {
+  background: var(--secondary);
+}
+
+button.btn-primary {
+  background: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+button[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+th,
+td {
+  padding: 0.4rem 0.5rem;
+  text-align: left;
+  border-bottom: 1px solid #2b3658;
+}
+
+th {
+  background: var(--panel);
+  color: var(--primary);
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+tr:nth-child(odd) td {
+  background: #1a213b;
+}
+
+tr:nth-child(even) td {
+  background: #222a44;
+}

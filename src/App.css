@@ -1,0 +1,152 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.5rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Header Styles */
+.app-header {
+  text-align: center;
+  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  background: linear-gradient(
+    135deg,
+    rgba(77, 110, 227, 0.1),
+    rgba(152, 117, 183, 0.1)
+  );
+  border-radius: 8px;
+  border: 1px solid rgba(77, 110, 227, 0.2);
+  flex-shrink: 0;
+}
+
+.app-header h1 {
+  margin: 0 0 0.25rem 0;
+  color: var(--accent);
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.app-subtitle {
+  margin: 0;
+  color: var(--muted-text);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+/* Step Indicator */
+.step-indicator {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+  padding: 0.5rem;
+  background: var(--panel);
+  border-radius: 8px;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.step-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  position: relative;
+  opacity: 0.5;
+}
+
+.step-item.active {
+  opacity: 1;
+}
+
+.step-item.completed {
+  opacity: 0.8;
+}
+
+.step-item:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: calc(50% + 25px);
+  width: calc(100% - 50px);
+  height: 2px;
+  background: rgba(77, 110, 227, 0.3);
+  z-index: 0;
+}
+
+.step-item.completed:not(:last-child)::after {
+  background: var(--primary);
+}
+
+.step-number {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid rgba(77, 110, 227, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--muted-text);
+  position: relative;
+  z-index: 1;
+}
+
+.step-item.active .step-number {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--text);
+  box-shadow: 0 0 12px rgba(77, 110, 227, 0.6);
+}
+
+.step-item.completed .step-number {
+  background: var(--secondary);
+  border-color: var(--secondary);
+  color: var(--text);
+}
+
+.step-label {
+  font-size: 0.7rem;
+  color: var(--muted-text);
+  text-align: center;
+  font-weight: 600;
+}
+
+.step-item.active .step-label {
+  color: var(--accent);
+}
+
+/* Card Styles */
+.card {
+  background: var(--panel);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card h2 {
+  color: var(--accent);
+  font-size: 1.3rem;
+  margin: 0 0 0.75rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(77, 110, 227, 0.3);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card h2::before {
+  content: "▸";
+  color: var(--primary);
+  font-size: 1.5rem;
+}

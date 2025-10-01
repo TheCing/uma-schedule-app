@@ -1,0 +1,5014 @@
+[
+  {
+    "fullName": "Character Profile List",
+    "basicInfo": {},
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {}
+    },
+    "aptitudes": {},
+    "uniqueSkills": [],
+    "objectives": []
+  },
+  {
+    "fullName": "Grass Wonder (Fantasy)",
+    "catchphrase": "Saint Jade Healer",
+    "name": "Grass Wonder",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1011_101102.png",
+    "basicInfo": {
+      "Japanese name": "グラスワンダー",
+      "Voice actor": "Rena Maeda",
+      "Release date": "2025-09-20",
+      "Birthday": "February 18",
+      "Height": "152 cm",
+      "Three sizes": "77 - 53 - 84"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 111,
+        "Stamina": 101,
+        "Power": 119,
+        "Guts": 96,
+        "Wit": 123
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "15%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "15%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "A",
+        "Medium": "B",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "F",
+        "Pace": "A",
+        "Late": "A",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Superior Heal",
+        "description": "Recover endurance with a gentle light when dropping down toward the back mid-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Asahi Hai Futurity Stakes",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1022_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 10)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japan Cup",
+        "turn": "Turn 46 (previous + 11)",
+        "timing": "Classic Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 1)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 11)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Mainichi Okan",
+        "turn": "Turn 67 (previous + 6)",
+        "timing": "Senior Class, Early October",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2026_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 4)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "El Condor Pasa (Fantasy)",
+    "catchphrase": "Kukulkan Monk",
+    "name": "El Condor Pasa",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1014_101402.png",
+    "basicInfo": {
+      "Japanese name": "エルコンドルパサー",
+      "Voice actor": "Minami Takahashi",
+      "Release date": "2025-09-20",
+      "Birthday": "March 17",
+      "Height": "163 cm",
+      "Three sizes": "89 - 58 - 86"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 122,
+        "Stamina": 91,
+        "Power": 112,
+        "Guts": 119,
+        "Wit": 106
+      }
+    },
+    "statBonuses": {
+      "Speed": "15%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "15%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "B"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "E",
+        "Pace": "A",
+        "Late": "A",
+        "End": "C"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Condor's Fury",
+        "description": "Increase acceleration with blazing passion when aiming for the front from midpack on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20043.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Kyodo News Hai",
+        "turn": "Turn 27 (previous + 14)",
+        "timing": "Classic Class, Early February",
+        "raceDetails": "G3 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3012_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the NHK Mile Cup",
+        "turn": "Turn 33 (previous + 5)",
+        "timing": "Classic Class, Early May",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1007_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Mainichi Okan",
+        "turn": "Turn 43 (previous + 8)",
+        "timing": "Classic Class, Early October",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2026_00.png"
+      },
+      {
+        "objective": "6. Place 1st in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 16)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Japan Cup",
+        "turn": "Turn 70 (previous + 9)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Hishi Amazon (Original)",
+    "catchphrase": "Amazoness Lapis",
+    "name": "Hishi Amazon",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1012_101201.png",
+    "basicInfo": {
+      "Japanese name": "ヒシアマゾン",
+      "Voice actor": "Yuiko Tatsumi",
+      "Release date": "2025-09-16",
+      "Birthday": "March 26",
+      "Height": "160 cm",
+      "Three sizes": "92 - 59 - 89"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 113,
+        "Stamina": 103,
+        "Power": 129,
+        "Guts": 100,
+        "Wit": 105
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "E"
+      },
+      "Distance": {
+        "Short": "D",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "B",
+        "Late": "C",
+        "End": "A"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "You and Me! One-on-One!",
+        "description": "Increase velocity when passing another runner on the outside toward the back on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hanshin Juvenile Fillies",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1021_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Oka Sho",
+        "turn": "Turn 31 (previous + 7)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1004_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japanese Oaks",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1009_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Shuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1014_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Osaka Hai",
+        "turn": "Turn 54 (previous + 5)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Yasuda Kinen",
+        "turn": "Turn 59 (previous + 4)",
+        "timing": "Senior Class, Early June",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1011_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Japan Cup",
+        "turn": "Turn 70 (previous + 10)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "10. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Seiun Sky (Original)",
+    "catchphrase": "Blue Cloud Thumbing",
+    "name": "Seiun Sky",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1020_102001.png",
+    "basicInfo": {
+      "Japanese name": "セイウンスカイ",
+      "Voice actor": "Akari Kitou",
+      "Release date": "2025-09-06",
+      "Birthday": "April 26",
+      "Height": "155 cm",
+      "Three sizes": "77 - 55 - 80"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 120,
+        "Stamina": 120,
+        "Power": 108,
+        "Guts": 101,
+        "Wit": 101
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "10%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "20%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "B",
+        "Late": "D",
+        "End": "E"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Angling and Scheming",
+        "description": "Increase acceleration at an opportune moment when in the lead on a corner late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20043.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 3000 fans",
+        "turn": "Turn 25 (previous + 12)",
+        "timing": "Classic Class, Early January",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 5)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 7)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "8. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "10. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Air Groove (Wedding)",
+    "catchphrase": "Quercus Civilis",
+    "name": "Air Groove",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1018_101802.png",
+    "basicInfo": {
+      "Japanese name": "エアグルーヴ",
+      "Voice actor": "Ruriko Aoki",
+      "Release date": "2025-08-27",
+      "Birthday": "April 6",
+      "Height": "165 cm",
+      "Three sizes": "90 - 57 - 86"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 115,
+        "Stamina": 100,
+        "Power": 111,
+        "Guts": 107,
+        "Wit": 117
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "10%",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "C",
+        "Mile": "B",
+        "Medium": "A",
+        "Long": "E"
+      },
+      "Strategy": {
+        "Front": "D",
+        "Pace": "A",
+        "Late": "A",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Eternal Moments",
+        "description": "Increase velocity when starting to make a move from a position toward the front mid-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hanshin Juvenile Fillies",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1021_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Oka Sho",
+        "turn": "Turn 31 (previous + 7)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1004_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japanese Oaks",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1009_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Shuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1014_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Osaka Hai",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 5)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Sapporo Kinen",
+        "turn": "Turn 64 (previous + 3)",
+        "timing": "Senior Class, Late August",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2020_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 3)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Mayano Top Gun (Wedding)",
+    "catchphrase": "Sunlight Bouquet",
+    "name": "Mayano Top Gun",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1024_102402.png",
+    "basicInfo": {
+      "Japanese name": "マヤノトップガン",
+      "Voice actor": "Mio Hoshitani",
+      "Release date": "2025-08-27",
+      "Birthday": "March 24",
+      "Height": "143 cm",
+      "Three sizes": "75 - 51 - 73"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 102,
+        "Stamina": 123,
+        "Power": 100,
+        "Guts": 110,
+        "Wit": 115
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "10%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "E"
+      },
+      "Distance": {
+        "Short": "D",
+        "Mile": "D",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "A",
+        "Late": "B",
+        "End": "B"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Flowery☆Maneuver",
+        "description": "Increase velocity when passing another runner toward the front on the final corner. If passing toward the back, increase acceleration instead.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 10000 fans",
+        "turn": "Turn 37 (previous + 24)",
+        "timing": "Classic Class, Early July",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 6)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "5. Place 2nd or better in the Hanshin Daishoten",
+        "turn": "Turn 54 (previous + 5)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G2 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2009_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 1)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Narita Brian (Original)",
+    "catchphrase": "Maverick",
+    "name": "Narita Brian",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1016_101601.png",
+    "basicInfo": {
+      "Japanese name": "ナリタブライアン",
+      "Voice actor": "Rika Kinugawa",
+      "Release date": "2025-08-19",
+      "Birthday": "May 3",
+      "Height": "160 cm",
+      "Three sizes": "91 - 58 - 85"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 113,
+        "Stamina": 109,
+        "Power": 122,
+        "Guts": 108,
+        "Wit": 98
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "20%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "B",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "A",
+        "Late": "A",
+        "End": "D"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Shadow Break",
+        "description": "Increase velocity with beastly strength when passing another runner on the outside on the final corner or later.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Asahi Hai Futurity Stakes",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1022_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 7)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Hanshin Daishoten",
+        "turn": "Turn 54 (previous + 5)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G2 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2009_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 1)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 11)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "10. Place 1st in the Japan Cup",
+        "turn": "Turn 70 (previous + 1)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "11. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Smart Falcon (Original)",
+    "catchphrase": "Absolute ☆ LOVE",
+    "name": "Smart Falcon",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1046_104601.png",
+    "basicInfo": {
+      "Japanese name": "スマートファルコン",
+      "Voice actor": "Hitomi Oowada",
+      "Release date": "2025-08-10",
+      "Birthday": "April 4",
+      "Height": "156 cm",
+      "Three sizes": "78 - 55 - 80"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 115,
+        "Stamina": 104,
+        "Power": 104,
+        "Guts": 122,
+        "Wit": 105
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "E",
+        "Dirt": "A"
+      },
+      "Distance": {
+        "Short": "B",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "E"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "D",
+        "Late": "G",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "SPARKLY☆STARDOM",
+        "description": "Become empowered against ceding the spotlight when about to lose the lead on a straight mid-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 1st in 2 Pre-OP or higher races",
+        "turn": "Turn 25 (previous + 12)",
+        "timing": "Classic Class, Early January",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/race_ribbons/utx_txt_grade_ribbon_06.png"
+      },
+      {
+        "objective": "3. Participate in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 5)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japan Dirt Derby",
+        "turn": "Turn 37 (previous + 5)",
+        "timing": "Classic Class, Early July",
+        "raceDetails": "G1 – Dirt – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1102_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the JBC Classic",
+        "turn": "Turn 45 (previous + 7)",
+        "timing": "Classic Class, Early November",
+        "raceDetails": "G1 – Dirt – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1105_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tokyo Daishoten",
+        "turn": "Turn 48 (previous + 2)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Dirt – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1106_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the February Stakes",
+        "turn": "Turn 52 (previous + 3)",
+        "timing": "Senior Class, Late February",
+        "raceDetails": "G1 – Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1001_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Teio Sho",
+        "turn": "Turn 60 (previous + 7)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Dirt – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1101_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the JBC Classic",
+        "turn": "Turn 69 (previous + 8)",
+        "timing": "Senior Class, Early November",
+        "raceDetails": "G1 – Dirt – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1105_00.png"
+      },
+      {
+        "objective": "10. Place 1st in the Champions Cup",
+        "turn": "Turn 71 (previous + 1)",
+        "timing": "Senior Class, Early December",
+        "raceDetails": "G1 – Dirt – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1020_00.png"
+      },
+      {
+        "objective": "11. Place 1st in the Tokyo Daishoten",
+        "turn": "Turn 72",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Dirt – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1106_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Narita Taishin (Original)",
+    "catchphrase": "Nevertheless",
+    "name": "Narita Taishin",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1050_105001.png",
+    "basicInfo": {
+      "Japanese name": "ナリタタイシン",
+      "Voice actor": "Keiko Watanabe",
+      "Release date": "2025-08-02",
+      "Birthday": "June 10",
+      "Height": "145 cm",
+      "Three sizes": "69 - 50 - 73"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 118,
+        "Stamina": 100,
+        "Power": 121,
+        "Guts": 97,
+        "Wit": 114
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "20%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "D",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "F",
+        "Late": "B",
+        "End": "A"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Nemesis",
+        "description": "Increase velocity with smoldering ambition when moving up from a position toward the back of the pack on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hopeful Stakes",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1024_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 6)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Participate in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 1st in the Nikkei Sho",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G2 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2011_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 1)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1027_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 11)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Curren Chan (Original)",
+    "catchphrase": "Fille Éclair",
+    "name": "Curren Chan",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1038_103801.png",
+    "basicInfo": {
+      "Japanese name": "カレンチャン",
+      "Voice actor": "Yuu Sasahara",
+      "Release date": "2025-07-26",
+      "Birthday": "March 31",
+      "Height": "155 cm",
+      "Three sizes": "83 - 55 - 79"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 119,
+        "Stamina": 71,
+        "Power": 130,
+        "Guts": 111,
+        "Wit": 119
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "F"
+      },
+      "Distance": {
+        "Short": "A",
+        "Mile": "D",
+        "Medium": "G",
+        "Long": "G"
+      },
+      "Strategy": {
+        "Front": "B",
+        "Pace": "A",
+        "Late": "E",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "#LookatCurren",
+        "description": "Gain momentum and begin to advance when passing another runner while well-positioned around halfway through the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 3000 fans",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Fillies' Revue",
+        "turn": "Turn 29 (previous + 5)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 1400m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2008_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Aoi Stakes",
+        "turn": "Turn 34 (previous + 4)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G3 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4050_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Hakodate Sprint Stakes",
+        "turn": "Turn 36 (previous + 1)",
+        "timing": "Classic Class, Late June",
+        "raceDetails": "G3 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3034_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Sprinters Stakes",
+        "turn": "Turn 42 (previous + 5)",
+        "timing": "Classic Class, Late September",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1013_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Ocean Stakes",
+        "turn": "Turn 53 (previous + 10)",
+        "timing": "Senior Class, Early March",
+        "raceDetails": "G3 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3019_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Takamatsunomiya Kinen",
+        "turn": "Turn 54",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1002_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Sprinters Stakes",
+        "turn": "Turn 66 (previous + 11)",
+        "timing": "Senior Class, Late September",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1013_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Tokai Teio (Anime Collab)",
+    "catchphrase": "Beyond the Horizon",
+    "name": "Tokai Teio",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1003_100302.png",
+    "basicInfo": {
+      "Japanese name": "トウカイテイオー",
+      "Voice actor": "Machico",
+      "Release date": "2025-07-15",
+      "Birthday": "April 20",
+      "Height": "150 cm",
+      "Three sizes": "77 - 54 - 76"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 109,
+        "Stamina": 125,
+        "Power": 98,
+        "Guts": 106,
+        "Wit": 112
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "10%",
+      "Power": "-",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "E",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "D",
+        "Pace": "A",
+        "Late": "C",
+        "End": "E"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Certain Victory",
+        "description": "Increase velocity with an indomitable fighting spirit when on the heels of another runner toward the front on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 3rd or better in the Wakagoma Stakes",
+        "turn": "Turn 26 (previous + 13)",
+        "timing": "Classic Class, Late January",
+        "raceDetails": "OP – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4009_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 4)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 2nd or better in the Japan Cup",
+        "turn": "Turn 70 (previous + 13)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Mejiro McQueen (Anime Collab)",
+    "catchphrase": "End of Sky",
+    "name": "Mejiro McQueen",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1013_101302.png",
+    "basicInfo": {
+      "Japanese name": "メジロマックイーン",
+      "Voice actor": "Saori Oonishi",
+      "Release date": "2025-07-15",
+      "Birthday": "April 3",
+      "Height": "159 cm",
+      "Three sizes": "71 - 54 - 76"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 90,
+        "Stamina": 134,
+        "Power": 89,
+        "Guts": 132,
+        "Wit": 105
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "10%",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "E"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "F",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "B",
+        "Pace": "A",
+        "Late": "D",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Legacy of the Strong",
+        "description": "Increase velocity when pressured by another runner and running out of energy toward the front on the final corner or later.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 3000 fans",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Kobe Shimbun Hai",
+        "turn": "Turn 42 (previous + 17)",
+        "timing": "Classic Class, Late September",
+        "raceDetails": "G2 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2024_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 1)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 1st in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "6. Place 2nd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Biwa Hayahide (Original)",
+    "catchphrase": "pf.Victory Formula...",
+    "name": "Biwa Hayahide",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1023_102301.png",
+    "basicInfo": {
+      "Japanese name": "ビワハヤヒデ",
+      "Voice actor": "Yui Kondou",
+      "Release date": "2025-07-09",
+      "Birthday": "March 10",
+      "Height": "171 cm",
+      "Three sizes": "93 - 61 - 88"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 104,
+        "Stamina": 114,
+        "Power": 101,
+        "Guts": 114,
+        "Wit": 117
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "10%",
+      "Wit": "20%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "F"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "E",
+        "Pace": "A",
+        "Late": "B",
+        "End": "E"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "∴win Q.E.D.",
+        "description": "Increase velocity by deriving the winning equation when passing another runner toward the front on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Asahi Hai Futurity Stakes",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1022_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 7)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1027_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 3rd or better in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Mihono Bourbon (Original)",
+    "catchphrase": "MB-19890425",
+    "name": "Mihono Bourbon",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1026_102601.png",
+    "basicInfo": {
+      "Japanese name": "ミホノブルボン",
+      "Voice actor": "Ikumi Hasegawa",
+      "Release date": "2025-07-01",
+      "Birthday": "April 25",
+      "Height": "160 cm",
+      "Three sizes": "86 - 54 - 87"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 117,
+        "Stamina": 88,
+        "Power": 112,
+        "Guts": 124,
+        "Wit": 109
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "C",
+        "Mile": "B",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "E",
+        "Late": "G",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "G00 1st. F∞;",
+        "description": "Increase velocity when positioned toward the front after making it to the final straight without faltering.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Asahi Hai Futurity Stakes",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1022_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Spring Stakes",
+        "turn": "Turn 30 (previous + 6)",
+        "timing": "Classic Class, Late March",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2010_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "5. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "8. Place 2nd or better in the Japan Cup",
+        "turn": "Turn 70 (previous + 13)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "TM Opera O (Original)",
+    "catchphrase": "O Sole So",
+    "name": "TM Opera O",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1015_101501.png",
+    "basicInfo": {
+      "Japanese name": "テイエムオペラオー",
+      "Voice actor": "Sora Tokui",
+      "Release date": "2025-06-25",
+      "Birthday": "March 13",
+      "Height": "156 cm",
+      "Three sizes": "76 - 55 - 80"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 91,
+        "Stamina": 132,
+        "Power": 91,
+        "Guts": 125,
+        "Wit": 111
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "E"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "E",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "C",
+        "Pace": "A",
+        "Late": "A",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "This Dance Is for Vittoria!",
+        "description": "Increase velocity with royal brilliance when engaged in a challenge toward the front on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 5000 fans",
+        "turn": "Turn 28 (previous + 15)",
+        "timing": "Classic Class, Late February",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 2)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 13)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 7)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 2nd or better in the Japan Cup",
+        "turn": "Turn 70 (previous + 9)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Special Week (Original)",
+    "catchphrase": "Special Dreamer",
+    "name": "Special Week",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1001_100101.png",
+    "basicInfo": {
+      "Japanese name": "スペシャルウィーク",
+      "Voice actor": "Azumi Waki",
+      "Release date": "2025-06-25",
+      "Birthday": "May 2",
+      "Height": "158 cm",
+      "Three sizes": "81 - 56 - 81"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 102,
+        "Stamina": 108,
+        "Power": 120,
+        "Guts": 110,
+        "Wit": 110
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "A",
+        "Late": "A",
+        "End": "C"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Shooting Star",
+        "description": "Ride the momentum and increase velocity after passing another runner toward the front late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Kisaragi Sho",
+        "turn": "Turn 27 (previous + 14)",
+        "timing": "Classic Class, Early February",
+        "raceDetails": "G3 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3009_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 6)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "6. Place 2nd or better in the Japan Cup",
+        "turn": "Turn 70 (previous + 13)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Silence Suzuka (Original)",
+    "catchphrase": "Silent Innocence",
+    "name": "Silence Suzuka",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1002_100201.png",
+    "basicInfo": {
+      "Japanese name": "サイレンススズカ",
+      "Voice actor": "Marika Kouno",
+      "Release date": "2025-06-25",
+      "Birthday": "May 1",
+      "Height": "161 cm",
+      "Three sizes": "70 - 53 - 79"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 124,
+        "Stamina": 102,
+        "Power": 94,
+        "Guts": 122,
+        "Wit": 108
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "D",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "E"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "C",
+        "Late": "E",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "The View from the Lead Is Mine!",
+        "description": "Increase velocity by drawing on all remaining strength when in the lead by a fair margin on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 5000 fans",
+        "turn": "Turn 27 (previous + 14)",
+        "timing": "Classic Class, Early February",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Yayoi Sho",
+        "turn": "Turn 29 (previous + 1)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2006_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kobe Shimbun Hai",
+        "turn": "Turn 42 (previous + 12)",
+        "timing": "Classic Class, Late September",
+        "raceDetails": "G2 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2024_00.png"
+      },
+      {
+        "objective": "5. Place 1st in the Kinko Sho",
+        "turn": "Turn 53 (previous + 10)",
+        "timing": "Senior Class, Early March",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2007_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 6)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Mainichi Okan",
+        "turn": "Turn 67 (previous + 6)",
+        "timing": "Senior Class, Early October",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2026_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Tokai Teio (Original)",
+    "catchphrase": "Top of Joyful",
+    "name": "Tokai Teio",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1003_100301.png",
+    "basicInfo": {
+      "Japanese name": "トウカイテイオー",
+      "Voice actor": "Machico",
+      "Release date": "2025-06-25",
+      "Birthday": "April 20",
+      "Height": "150 cm",
+      "Three sizes": "77 - 54 - 76"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 109,
+        "Stamina": 109,
+        "Power": 102,
+        "Guts": 112,
+        "Wit": 118
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "10%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "E",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "D",
+        "Pace": "A",
+        "Late": "C",
+        "End": "E"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Sky-High Teio Step",
+        "description": "Greatly increase velocity with flashy footwork when closing the gap to runners ahead on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 3rd or better in the Wakagoma Stakes",
+        "turn": "Turn 26 (previous + 13)",
+        "timing": "Classic Class, Late January",
+        "raceDetails": "OP – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4009_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 4)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 2nd or better in the Japan Cup",
+        "turn": "Turn 70 (previous + 13)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Maruzensky (Original)",
+    "catchphrase": "Rouge Formula",
+    "name": "Maruzensky",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1004_100401.png",
+    "basicInfo": {
+      "Japanese name": "マルゼンスキー",
+      "Voice actor": "Lynn",
+      "Release date": "2025-06-25",
+      "Birthday": "May 19",
+      "Height": "164 cm",
+      "Three sizes": "92 - 58 - 88"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 118,
+        "Stamina": 84,
+        "Power": 105,
+        "Guts": 122,
+        "Wit": 121
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "20%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "D"
+      },
+      "Distance": {
+        "Short": "B",
+        "Mile": "A",
+        "Medium": "B",
+        "Long": "C"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "E",
+        "Late": "G",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Red Shift/LP1211-M",
+        "description": "Increase acceleration by shifting gears when positioned toward the front on the final corner or later.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20043.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Asahi Hai Futurity Stakes",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1022_00.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Spring Stakes",
+        "turn": "Turn 30 (previous + 6)",
+        "timing": "Classic Class, Late March",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2010_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "5. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "6. Participate in the Arima Kinen",
+        "turn": "Turn 48 (previous + 13)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Osaka Hai",
+        "turn": "Turn 54 (previous + 5)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Yasuda Kinen",
+        "turn": "Turn 59 (previous + 4)",
+        "timing": "Senior Class, Early June",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1011_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 8)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Oguri Cap (Original)",
+    "catchphrase": "Starlight Beat",
+    "name": "Oguri Cap",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1006_100601.png",
+    "basicInfo": {
+      "Japanese name": "オグリキャップ",
+      "Voice actor": "Tomoyo Takayanagi",
+      "Release date": "2025-06-25",
+      "Birthday": "March 27",
+      "Height": "167 cm",
+      "Three sizes": "82 - 57 - 82"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 124,
+        "Stamina": 81,
+        "Power": 130,
+        "Guts": 103,
+        "Wit": 112
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "B"
+      },
+      "Distance": {
+        "Short": "E",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "F",
+        "Pace": "A",
+        "Late": "A",
+        "End": "D"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Triumphant Pulse",
+        "description": "Greatly increase ability to break out of the pack by opening up a path when positioned toward the front with 200m remaining.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 3000 fans",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the NHK Mile Cup",
+        "turn": "Turn 33 (previous + 8)",
+        "timing": "Classic Class, Early May",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1007_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Mile Championship",
+        "turn": "Turn 46 (previous + 12)",
+        "timing": "Classic Class, Late November",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1018_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 1)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in 2 G1 races",
+        "turn": "Turn 60 (previous + 11)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/race_ribbons/utx_txt_grade_ribbon_05.png"
+      },
+      {
+        "objective": "7. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Taiki Shuttle (Original)",
+    "catchphrase": "Wild Frontier",
+    "name": "Taiki Shuttle",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1010_101001.png",
+    "basicInfo": {
+      "Japanese name": "タイキシャトル",
+      "Voice actor": "Yuka Ootsubo",
+      "Release date": "2025-06-25",
+      "Birthday": "March 23",
+      "Height": "172 cm",
+      "Three sizes": "94 - 59 - 90"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 118,
+        "Stamina": 87,
+        "Power": 119,
+        "Guts": 113,
+        "Wit": 113
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "B"
+      },
+      "Distance": {
+        "Short": "A",
+        "Mile": "A",
+        "Medium": "E",
+        "Long": "G"
+      },
+      "Strategy": {
+        "Front": "C",
+        "Pace": "A",
+        "Late": "E",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Shooting for Victory!",
+        "description": "Increase acceleration with a pow, a wow, and a bang when well-positioned on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20043.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Shinzan Kinen",
+        "turn": "Turn 25 (previous + 12)",
+        "timing": "Classic Class, Early January",
+        "raceDetails": "G3 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3003_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the NHK Mile Cup",
+        "turn": "Turn 33 (previous + 7)",
+        "timing": "Classic Class, Early May",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1007_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Unicorn Stakes",
+        "turn": "Turn 36 (previous + 2)",
+        "timing": "Classic Class, Late June",
+        "raceDetails": "G3 – Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3033_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Mile Championship",
+        "turn": "Turn 46 (previous + 9)",
+        "timing": "Classic Class, Late November",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1018_00.png"
+      },
+      {
+        "objective": "6. Place 1st in the Yasuda Kinen",
+        "turn": "Turn 59 (previous + 12)",
+        "timing": "Senior Class, Early June",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1011_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Sprinters Stakes",
+        "turn": "Turn 66 (previous + 6)",
+        "timing": "Senior Class, Late September",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1013_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Mile Championship",
+        "turn": "Turn 70 (previous + 3)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1018_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Mejiro McQueen (Original)",
+    "catchphrase": "Elegance Line",
+    "name": "Mejiro McQueen",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1013_101301.png",
+    "basicInfo": {
+      "Japanese name": "メジロマックイーン",
+      "Voice actor": "Saori Oonishi",
+      "Release date": "2025-06-25",
+      "Birthday": "April 3",
+      "Height": "159 cm",
+      "Three sizes": "71 - 54 - 76"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 87,
+        "Stamina": 136,
+        "Power": 87,
+        "Guts": 125,
+        "Wit": 115
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "E"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "F",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "B",
+        "Pace": "A",
+        "Late": "D",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "The Duty of Dignity Calls",
+        "description": "Increase velocity with the determination to not be overtaken when positioned toward the front on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 3000 fans",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Kobe Shimbun Hai",
+        "turn": "Turn 42 (previous + 17)",
+        "timing": "Classic Class, Late September",
+        "raceDetails": "G2 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2024_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 1)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 1st in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 11)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "6. Place 2nd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Symboli Rudolf (Original)",
+    "catchphrase": "Road of Emperor",
+    "name": "Symboli Rudolf",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1017_101701.png",
+    "basicInfo": {
+      "Japanese name": "シンボリルドルフ",
+      "Voice actor": "Azusa Tadokoro",
+      "Release date": "2025-06-25",
+      "Birthday": "March 13",
+      "Height": "165 cm",
+      "Three sizes": "86 - 59 - 85"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 106,
+        "Stamina": 111,
+        "Power": 101,
+        "Guts": 118,
+        "Wit": 114
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "-",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "E",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "B",
+        "Pace": "A",
+        "Late": "A",
+        "End": "C"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Behold Thine Emperor's Divine Might",
+        "description": "Greatly increase velocity on the final straight after passing another runner 3 times late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Saudi Arabia Royal Cup",
+        "turn": "Turn 19 (previous + 6)",
+        "timing": "Junior Class, Early October",
+        "raceDetails": "G3 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3057_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 11)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 7)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "8. Place 2nd or better in the Japan Cup",
+        "turn": "Turn 70 (previous + 13)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Rice Shower (Original)",
+    "catchphrase": "Rose Dream",
+    "name": "Rice Shower",
+    "rarity": 3,
+    "image": "/images/umamusume/characters/chara_stand_1030_103001.png",
+    "basicInfo": {
+      "Japanese name": "ライスシャワー",
+      "Voice actor": "Manaka Iwami",
+      "Release date": "2025-06-25",
+      "Birthday": "March 5",
+      "Height": "145 cm",
+      "Three sizes": "75 - 51 - 76"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 87,
+        "Stamina": 143,
+        "Power": 86,
+        "Guts": 125,
+        "Wit": 109
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "10%",
+      "Power": "-",
+      "Guts": "20%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "E",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "B",
+        "Pace": "A",
+        "Late": "C",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": null,
+        "name": "Blue Rose Closer",
+        "description": "Increase velocity with strong willpower when breaking out of the pack on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Spring Stakes",
+        "turn": "Turn 30 (previous + 17)",
+        "timing": "Classic Class, Late March",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2010_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 3)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Nikkei Sho",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G2 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2011_00.png"
+      },
+      {
+        "objective": "6. Place 1st in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 1)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 11)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Gold Ship (Original)",
+    "catchphrase": "Red Strife",
+    "name": "Gold Ship",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1007_100701.png",
+    "basicInfo": {
+      "Japanese name": "ゴールドシップ",
+      "Voice actor": "Hitomi Ueda",
+      "Release date": "2025-06-25",
+      "Birthday": "March 6",
+      "Height": "170 cm",
+      "Three sizes": "88 - 55 - 88"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 106,
+        "Stamina": 124,
+        "Power": 129,
+        "Guts": 99,
+        "Wit": 92
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "B",
+        "Late": "B",
+        "End": "A"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Warning Shot!",
+        "description": "Slightly increase velocity with a long spurt starting halfway through the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Anchors Aweigh!",
+        "description": "Moderately increase velocity steadily with a long spurt starting halfway through the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hopeful Stakes",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1024_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 6)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 12)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 7)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Vodka (Original)",
+    "catchphrase": "Wild Top Gear",
+    "name": "Vodka",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1008_100801.png",
+    "basicInfo": {
+      "Japanese name": "ウオッカ",
+      "Voice actor": "Ayaka Oohashi",
+      "Release date": "2025-06-25",
+      "Birthday": "April 4",
+      "Height": "165 cm",
+      "Three sizes": "76 - 55 - 78"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 124,
+        "Stamina": 79,
+        "Power": 136,
+        "Guts": 97,
+        "Wit": 114
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "F"
+      },
+      "Strategy": {
+        "Front": "C",
+        "Pace": "B",
+        "Late": "A",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Xceleration",
+        "description": "Become stronger at challenging rivals and moderately increase velocity when positioned toward the front with 200m or less remaining.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Cut and Drive!",
+        "description": "Become stronger at challenging rivals and increase velocity when positioned toward the front with 200m or less remaining.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hanshin Juvenile Fillies",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1021_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Tulip Sho",
+        "turn": "Turn 29 (previous + 5)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3018_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Oka Sho",
+        "turn": "Turn 31 (previous + 1)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1004_00.png"
+      },
+      {
+        "objective": "5. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Shuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1014_00.png"
+      },
+      {
+        "objective": "7. Participate in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "8. Place 3rd or better in the Victoria Mile",
+        "turn": "Turn 57 (previous + 8)",
+        "timing": "Senior Class, Early May",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1008_00.png"
+      },
+      {
+        "objective": "9. Place 2nd or better in the Yasuda Kinen",
+        "turn": "Turn 59 (previous + 1)",
+        "timing": "Senior Class, Early June",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1011_00.png"
+      },
+      {
+        "objective": "10. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 8)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Daiwa Scarlet (Original)",
+    "catchphrase": "Top of Blue",
+    "name": "Daiwa Scarlet",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1009_100901.png",
+    "basicInfo": {
+      "Japanese name": "ダイワスカーレット",
+      "Voice actor": "Chisa Kimura",
+      "Release date": "2025-06-25",
+      "Birthday": "May 13",
+      "Height": "163 cm",
+      "Three sizes": "90 - 56 - 82"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 109,
+        "Stamina": 99,
+        "Power": 103,
+        "Guts": 122,
+        "Wit": 117
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "20%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "A",
+        "Late": "E",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Red Ace",
+        "description": "Slightly swell with the determination to stay number one in the second half of the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Resplendent Red Ace",
+        "description": "Swell with the determination to stay number one in the second half of the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Tulip Sho",
+        "turn": "Turn 29 (previous + 16)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3018_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Oka Sho",
+        "turn": "Turn 31 (previous + 1)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1004_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japanese Oaks",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1009_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Shuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1014_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Queen Elizabeth II Cup",
+        "turn": "Turn 45",
+        "timing": "Classic Class, Early November",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1017_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Osaka Hai",
+        "turn": "Turn 54 (previous + 8)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 13)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Grass Wonder (Original)",
+    "catchphrase": "Rock-piercing Blue",
+    "name": "Grass Wonder",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1011_101101.png",
+    "basicInfo": {
+      "Japanese name": "グラスワンダー",
+      "Voice actor": "Rena Maeda",
+      "Release date": "2025-06-25",
+      "Birthday": "February 18",
+      "Height": "152 cm",
+      "Three sizes": "77 - 53 - 84"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 118,
+        "Stamina": 91,
+        "Power": 129,
+        "Guts": 96,
+        "Wit": 116
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "A",
+        "Medium": "B",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "F",
+        "Pace": "A",
+        "Late": "A",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Focused Mind",
+        "description": "Moderately increase velocity with a strong turn of foot when passing another runner toward the back on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Where There's a Will, There's a Way",
+        "description": "Increase velocity with a strong turn of foot when passing another runner toward the back on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Asahi Hai Futurity Stakes",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1022_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 10)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japan Cup",
+        "turn": "Turn 46 (previous + 11)",
+        "timing": "Classic Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 1)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 11)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Mainichi Okan",
+        "turn": "Turn 67 (previous + 6)",
+        "timing": "Senior Class, Early October",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2026_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 4)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "El Condor Pasa (Original)",
+    "catchphrase": "El ☆ Numero 1",
+    "name": "El Condor Pasa",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1014_101401.png",
+    "basicInfo": {
+      "Japanese name": "エルコンドルパサー",
+      "Voice actor": "Minami Takahashi",
+      "Release date": "2025-06-25",
+      "Birthday": "March 17",
+      "Height": "163 cm",
+      "Three sizes": "89 - 58 - 86"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 110,
+        "Stamina": 98,
+        "Power": 103,
+        "Guts": 121,
+        "Wit": 118
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "B"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "A",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "E",
+        "Pace": "A",
+        "Late": "A",
+        "End": "C"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Corazón ☆ Ardiente",
+        "description": "Slightly hang on to the advantage when positioned toward the front with energy to spare on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Victoria por plancha ☆",
+        "description": "Hang onto the advantage when positioned toward the front with energy to spare on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Kyodo News Hai",
+        "turn": "Turn 27 (previous + 14)",
+        "timing": "Classic Class, Early February",
+        "raceDetails": "G3 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3012_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the NHK Mile Cup",
+        "turn": "Turn 33 (previous + 5)",
+        "timing": "Classic Class, Early May",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1007_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Mainichi Okan",
+        "turn": "Turn 43 (previous + 8)",
+        "timing": "Classic Class, Early October",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2026_00.png"
+      },
+      {
+        "objective": "6. Place 1st in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 16)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Japan Cup",
+        "turn": "Turn 70 (previous + 9)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1019_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 1)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Air Groove (Original)",
+    "catchphrase": "Empress Road",
+    "name": "Air Groove",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1018_101801.png",
+    "basicInfo": {
+      "Japanese name": "エアグルーヴ",
+      "Voice actor": "Ruriko Aoki",
+      "Release date": "2025-06-25",
+      "Birthday": "April 6",
+      "Height": "165 cm",
+      "Three sizes": "90 - 57 - 86"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 111,
+        "Stamina": 105,
+        "Power": 105,
+        "Guts": 112,
+        "Wit": 117
+      }
+    },
+    "statBonuses": {
+      "Speed": "10%",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "C",
+        "Mile": "B",
+        "Medium": "A",
+        "Long": "E"
+      },
+      "Strategy": {
+        "Front": "D",
+        "Pace": "A",
+        "Late": "A",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Empress's Pride",
+        "description": "Moderately increase velocity with the stride of an empress when passing another runner toward the back on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Blazing Pride",
+        "description": "Increase velocity with the stride of an empress when passing another runner toward the back on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hanshin Juvenile Fillies",
+        "turn": "Turn 23 (previous + 10)",
+        "timing": "Junior Class, Early December",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1021_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Oka Sho",
+        "turn": "Turn 31 (previous + 7)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1004_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Japanese Oaks",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1009_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Shuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1014_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Osaka Hai",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 5)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Sapporo Kinen",
+        "turn": "Turn 64 (previous + 3)",
+        "timing": "Senior Class, Late August",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2020_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 3)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Mayano Top Gun (Original)",
+    "catchphrase": "Scramble ☆ Zone",
+    "name": "Mayano Top Gun",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1024_102401.png",
+    "basicInfo": {
+      "Japanese name": "マヤノトップガン",
+      "Voice actor": "Mio Hoshitani",
+      "Release date": "2025-06-25",
+      "Birthday": "March 24",
+      "Height": "143 cm",
+      "Three sizes": "75 - 51 - 73"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 94,
+        "Stamina": 130,
+        "Power": 86,
+        "Guts": 123,
+        "Wit": 117
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "-",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "E"
+      },
+      "Distance": {
+        "Short": "D",
+        "Mile": "D",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "A",
+        "Late": "B",
+        "End": "B"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "1st Place Kiss☆",
+        "description": "Slightly increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Flashy☆Landing",
+        "description": "Increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 10000 fans",
+        "turn": "Turn 37 (previous + 24)",
+        "timing": "Classic Class, Early July",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 6)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "5. Place 2nd or better in the Hanshin Daishoten",
+        "turn": "Turn 54 (previous + 5)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G2 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2009_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 1)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Super Creek (Original)",
+    "catchphrase": "Murmuring Stream",
+    "name": "Super Creek",
+    "rarity": 2,
+    "image": "/images/umamusume/characters/chara_stand_1045_104501.png",
+    "basicInfo": {
+      "Japanese name": "スーパークリーク",
+      "Voice actor": "Kana Yuuki",
+      "Release date": "2025-06-25",
+      "Birthday": "May 27",
+      "Height": "168 cm",
+      "Three sizes": "97 - 61 - 91"
+    },
+    "baseStats": {
+      "oneStar": {},
+      "fiveStar": {
+        "Speed": 84,
+        "Stamina": 129,
+        "Power": 92,
+        "Guts": 129,
+        "Wit": 116
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "10%",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "20%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "G",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "D",
+        "Pace": "A",
+        "Late": "B",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐⭐",
+        "name": "Clear Heart",
+        "description": "Moderately recover endurance when well-positioned mid-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Pure Heart",
+        "description": "Recover endurance when well-positioned mid-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 3rd or better in the Sumire Stakes",
+        "turn": "Turn 28 (previous + 15)",
+        "timing": "Classic Class, Late February",
+        "raceDetails": "OP – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4020_00.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 15)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Osaka Hai",
+        "turn": "Turn 54 (previous + 5)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 1)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 11)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Mejiro Ryan (Original)",
+    "catchphrase": "Straight Line",
+    "name": "Mejiro Ryan",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1027_102701.png",
+    "basicInfo": {
+      "Japanese name": "メジロライアン",
+      "Voice actor": "Afumi Hashi",
+      "Release date": "2025-06-25",
+      "Birthday": "April 11",
+      "Height": "163 cm",
+      "Three sizes": "87 - 57 - 86"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 87,
+        "Stamina": 66,
+        "Power": 95,
+        "Guts": 71,
+        "Wit": 81
+      },
+      "fiveStar": {
+        "Speed": 120,
+        "Stamina": 91,
+        "Power": 130,
+        "Guts": 98,
+        "Wit": 111
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "E",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "F",
+        "Pace": "A",
+        "Late": "A",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "Feel the Burn!",
+        "description": "Moderately increase acceleration in an attempt to move up on a corner late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20043.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Let's Pump Some Iron!",
+        "description": "Increase acceleration in an attempt to move up on a corner late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20043.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 3rd or better in the Junior Cup",
+        "turn": "Turn 25 (previous + 12)",
+        "timing": "Classic Class, Early January",
+        "raceDetails": "OP – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4002_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 5)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Tenno Sho (Spring)",
+        "turn": "Turn 56 (previous + 7)",
+        "timing": "Senior Class, Late April",
+        "raceDetails": "G1 – Turf – 3200m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1006_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 3)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 11)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Agnes Tachyon (Original)",
+    "catchphrase": "Tach-nology",
+    "name": "Agnes Tachyon",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1032_103201.png",
+    "basicInfo": {
+      "Japanese name": "アグネスタキオン",
+      "Voice actor": "Sumire Uesaka",
+      "Release date": "2025-06-25",
+      "Birthday": "April 13",
+      "Height": "159 cm",
+      "Three sizes": "83 - 55 - 81"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 82,
+        "Stamina": 76,
+        "Power": 76,
+        "Guts": 79,
+        "Wit": 87
+      },
+      "fiveStar": {
+        "Speed": 112,
+        "Stamina": 104,
+        "Power": 104,
+        "Guts": 108,
+        "Wit": 122
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "D",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "E",
+        "Pace": "A",
+        "Late": "B",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "Introduction to Physiology",
+        "description": "Moderately recover endurance when conserving energy on a corner in the second half of the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "U=ma2",
+        "description": "Recover endurance when conserving energy on a corner in the second half of the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Yayoi Sho",
+        "turn": "Turn 29 (previous + 16)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2006_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 1)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Osaka Hai",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 5)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 3)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Winning Ticket (Original)",
+    "catchphrase": "Go To Winning!",
+    "name": "Winning Ticket",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1035_103501.png",
+    "basicInfo": {
+      "Japanese name": "ウイニングチケット",
+      "Voice actor": "Yui Watanabe",
+      "Release date": "2025-06-25",
+      "Birthday": "March 21",
+      "Height": "157 cm",
+      "Three sizes": "88 - 57 - 85"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 87,
+        "Stamina": 68,
+        "Power": 91,
+        "Guts": 74,
+        "Wit": 80
+      },
+      "fiveStar": {
+        "Speed": 120,
+        "Stamina": 93,
+        "Power": 125,
+        "Guts": 101,
+        "Wit": 111
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "10%",
+      "Power": "20%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "F",
+        "Medium": "A",
+        "Long": "B"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "B",
+        "Late": "A",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "V Is for Victory!",
+        "description": "Refuse to back down from a challenge, moderately increasing velocity on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Our Ticket to Win!",
+        "description": "Refuse to back down from a challenge, increasing velocity on the final straight.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hopeful Stakes",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1024_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Yayoi Sho",
+        "turn": "Turn 29 (previous + 4)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2006_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 1)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "5. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Osaka Hai",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1003_00.png"
+      },
+      {
+        "objective": "8. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 5)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 11)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Sakura Bakushin O (Original)",
+    "catchphrase": "Sakura, Forward!",
+    "name": "Sakura Bakushin O",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1041_104101.png",
+    "basicInfo": {
+      "Japanese name": "サクラバクシンオー",
+      "Voice actor": "Sachika Misawa",
+      "Release date": "2025-06-25",
+      "Birthday": "April 14",
+      "Height": "158 cm",
+      "Three sizes": "83 - 55 - 83"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 87,
+        "Stamina": 54,
+        "Power": 93,
+        "Guts": 85,
+        "Wit": 81
+      },
+      "fiveStar": {
+        "Speed": 120,
+        "Stamina": 74,
+        "Power": 128,
+        "Guts": 116,
+        "Wit": 112
+      }
+    },
+    "statBonuses": {
+      "Speed": "20%",
+      "Stamina": "-",
+      "Power": "-",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "A",
+        "Mile": "B",
+        "Medium": "G",
+        "Long": "G"
+      },
+      "Strategy": {
+        "Front": "A",
+        "Pace": "A",
+        "Late": "F",
+        "End": "G"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "Class Rep + Speed = Bakushin",
+        "description": "Moderately increase velocity with BAKUSHIN power when engaged in a challenge toward the front in the second half of the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Genius x Bakushin = Victory",
+        "description": "Increase velocity with BAKUSHIN power when engaged in a challenge toward the front in the second half of the race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Keio Hai Junior Stakes",
+        "turn": "Turn 21 (previous + 8)",
+        "timing": "Junior Class, Early November",
+        "raceDetails": "G2 – Turf – 1400m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2030_00.png"
+      },
+      {
+        "objective": "3. Participate in the Spring Stakes",
+        "turn": "Turn 30 (previous + 8)",
+        "timing": "Classic Class, Late March",
+        "raceDetails": "G2 – Turf – 1800m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2010_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Aoi Stakes",
+        "turn": "Turn 34 (previous + 3)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G3 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4050_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Sprinters Stakes",
+        "turn": "Turn 42 (previous + 7)",
+        "timing": "Classic Class, Late September",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1013_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Takamatsunomiya Kinen",
+        "turn": "Turn 54 (previous + 11)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1002_00.png"
+      },
+      {
+        "objective": "7. Place 1st in the Hakodate Sprint Stakes",
+        "turn": "Turn 60 (previous + 5)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G3 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3034_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the CBC Sho",
+        "turn": "Turn 61",
+        "timing": "Senior Class, Early July",
+        "raceDetails": "G3 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3035_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Centaur Stakes",
+        "turn": "Turn 65 (previous + 3)",
+        "timing": "Senior Class, Early September",
+        "raceDetails": "G2 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2021_00.png"
+      },
+      {
+        "objective": "10. Place 1st in the Sprinters Stakes",
+        "turn": "Turn 66",
+        "timing": "Senior Class, Late September",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1013_00.png"
+      },
+      {
+        "objective": "11. Place 1st in the Mile Championship",
+        "turn": "Turn 70 (previous + 3)",
+        "timing": "Senior Class, Late November",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1018_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Haru Urara (Original)",
+    "catchphrase": "Uraran First Prize ♪",
+    "name": "Haru Urara",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1052_105201.png",
+    "basicInfo": {
+      "Japanese name": "ハルウララ",
+      "Voice actor": "Yukina Shutou",
+      "Release date": "2025-06-25",
+      "Birthday": "February 27",
+      "Height": "140 cm",
+      "Three sizes": "74 - 51 - 73"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 83,
+        "Stamina": 58,
+        "Power": 89,
+        "Guts": 86,
+        "Wit": 84
+      },
+      "fiveStar": {
+        "Speed": 115,
+        "Stamina": 79,
+        "Power": 123,
+        "Guts": 119,
+        "Wit": 114
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "-",
+      "Power": "10%",
+      "Guts": "20%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "G",
+        "Dirt": "A"
+      },
+      "Distance": {
+        "Short": "A",
+        "Mile": "B",
+        "Medium": "G",
+        "Long": "G"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "G",
+        "Late": "A",
+        "End": "B"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "Super-Duper Stoked",
+        "description": "Moderately recover endurance with a glance at nearby runners when positioned toward the back on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Super-Duper Climax",
+        "description": "Recover endurance with a glance at nearby runners when positioned toward the back on the final corner.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20023.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Dirt – 1300m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Have at least 5000 fans",
+        "turn": "Turn 37 (previous + 24)",
+        "timing": "Classic Class, Early July",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "3. Have at least 9000 fans",
+        "turn": "Turn 45 (previous + 7)",
+        "timing": "Classic Class, Early November",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "4. Have at least 12000 fans",
+        "turn": "Turn 48 (previous + 2)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": null,
+        "bannerImage": "/images/umamusume/icons/fan.png"
+      },
+      {
+        "objective": "5. Place 5th or better in the Negishi Stakes",
+        "turn": "Turn 50 (previous + 1)",
+        "timing": "Senior Class, Late January",
+        "raceDetails": "G3 – Dirt – 1400m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3008_00.png"
+      },
+      {
+        "objective": "6. Place 5th or better in the February Stakes",
+        "turn": "Turn 52 (previous + 1)",
+        "timing": "Senior Class, Late February",
+        "raceDetails": "G1 – Dirt – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1001_00.png"
+      },
+      {
+        "objective": "7. Place 5th or better in the Elm Stakes",
+        "turn": "Turn 63 (previous + 10)",
+        "timing": "Senior Class, Early August",
+        "raceDetails": "G3 – Dirt – 1700m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3047_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the JBC Sprint",
+        "turn": "Turn 69 (previous + 5)",
+        "timing": "Senior Class, Early November",
+        "raceDetails": "G1 – Dirt – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1104_00.png"
+      },
+      {
+        "objective": "9. Participate in the Arima Kinen",
+        "turn": "Turn 72 (previous + 2)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Matikanefukukitaru (Original)",
+    "catchphrase": "Rising Luck ☆ Flood of Happiness",
+    "name": "Matikanefukukitaru",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1056_105601.png",
+    "basicInfo": {
+      "Japanese name": "マチカネフクキタル",
+      "Voice actor": "Hiyori Nitta",
+      "Release date": "2025-06-25",
+      "Birthday": "May 22",
+      "Height": "158 cm",
+      "Three sizes": "84 - 59 - 83"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 77,
+        "Stamina": 81,
+        "Power": 88,
+        "Guts": 81,
+        "Wit": 73
+      },
+      "fiveStar": {
+        "Speed": 106,
+        "Stamina": 111,
+        "Power": 121,
+        "Guts": 111,
+        "Wit": 101
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "20%",
+      "Power": "10%",
+      "Guts": "-",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "F"
+      },
+      "Distance": {
+        "Short": "F",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "B",
+        "Late": "A",
+        "End": "F"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "Luck Be with Me!",
+        "description": "Moderately clear a path forward with the power of divination when the way ahead is jammed late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "I See Victory in My Future!",
+        "description": "Clear a path forward with the power of divination when the way ahead is jammed late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Yayoi Sho",
+        "turn": "Turn 29 (previous + 16)",
+        "timing": "Classic Class, Early March",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2006_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 4)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Kinko Sho",
+        "turn": "Turn 53 (previous + 8)",
+        "timing": "Senior Class, Early March",
+        "raceDetails": "G2 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_2007_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 6)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 2nd or better in the Hakodate Kinen",
+        "turn": "Turn 61",
+        "timing": "Senior Class, Early July",
+        "raceDetails": "G3 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3039_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Arima Kinen",
+        "turn": "Turn 72 (previous + 10)",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "Nice Nature (Original)",
+    "catchphrase": "Poinsettia Ribbon",
+    "name": "Nice Nature",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1060_106001.png",
+    "basicInfo": {
+      "Japanese name": "ナイスネイチャ",
+      "Voice actor": "Kaori Maeda",
+      "Release date": "2025-06-25",
+      "Birthday": "April 16",
+      "Height": "157 cm",
+      "Three sizes": "79 - 56 - 80"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 86,
+        "Stamina": 72,
+        "Power": 89,
+        "Guts": 69,
+        "Wit": 84
+      },
+      "fiveStar": {
+        "Speed": 118,
+        "Stamina": 99,
+        "Power": 123,
+        "Guts": 96,
+        "Wit": 114
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "-",
+      "Wit": "10%"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "G",
+        "Mile": "C",
+        "Medium": "A",
+        "Long": "A"
+      },
+      "Strategy": {
+        "Front": "F",
+        "Pace": "B",
+        "Late": "A",
+        "End": "D"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "I Can Win Sometimes, Right?",
+        "description": "Moderately increase velocity with an arousal of fighting spirit when positioned 3rd and about to lose late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Just a Little Farther!",
+        "description": "Increase velocity with flaring fighting spirit when positioned 3rd and about to lose late-race.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 3rd or better in the Wakagoma Stakes",
+        "turn": "Turn 26 (previous + 13)",
+        "timing": "Classic Class, Late January",
+        "raceDetails": "OP – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_4009_00.png"
+      },
+      {
+        "objective": "3. Place 3rd or better in the Kokura Kinen",
+        "turn": "Turn 39 (previous + 12)",
+        "timing": "Classic Class, Early August",
+        "raceDetails": "G3 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3044_00.png"
+      },
+      {
+        "objective": "4. Place 3rd or better in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 4)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "5. Place 3rd or better in the Arima Kinen",
+        "turn": "Turn 48 (previous + 3)",
+        "timing": "Classic Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      },
+      {
+        "objective": "6. Place 3rd or better in the Takarazuka Kinen",
+        "turn": "Turn 60 (previous + 11)",
+        "timing": "Senior Class, Late June",
+        "raceDetails": "G1 – Turf – 2200m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1012_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 7)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Chunichi Shimbun Hai",
+        "turn": "Turn 71 (previous + 2)",
+        "timing": "Senior Class, Early December",
+        "raceDetails": "G3 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_3068_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Arima Kinen",
+        "turn": "Turn 72",
+        "timing": "Senior Class, Late December",
+        "raceDetails": "G1 – Turf – 2500m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1023_00.png"
+      }
+    ]
+  },
+  {
+    "fullName": "King Halo (Original)",
+    "catchphrase": "King of Emeralds",
+    "name": "King Halo",
+    "rarity": 1,
+    "image": "/images/umamusume/characters/chara_stand_1061_106101.png",
+    "basicInfo": {
+      "Japanese name": "キングヘイロー",
+      "Voice actor": "Iori Saeki",
+      "Release date": "2025-06-25",
+      "Birthday": "April 28",
+      "Height": "159 cm",
+      "Three sizes": "85 - 60 - 85"
+    },
+    "baseStats": {
+      "oneStar": {
+        "Speed": 87,
+        "Stamina": 60,
+        "Power": 93,
+        "Guts": 73,
+        "Wit": 87
+      },
+      "fiveStar": {
+        "Speed": 120,
+        "Stamina": 82,
+        "Power": 127,
+        "Guts": 100,
+        "Wit": 121
+      }
+    },
+    "statBonuses": {
+      "Speed": "-",
+      "Stamina": "-",
+      "Power": "20%",
+      "Guts": "10%",
+      "Wit": "-"
+    },
+    "aptitudes": {
+      "Surface": {
+        "Turf": "A",
+        "Dirt": "G"
+      },
+      "Distance": {
+        "Short": "A",
+        "Mile": "B",
+        "Medium": "B",
+        "Long": "C"
+      },
+      "Strategy": {
+        "Front": "G",
+        "Pace": "B",
+        "Late": "A",
+        "End": "D"
+      }
+    },
+    "uniqueSkills": [
+      {
+        "rarity": "⭐ and ⭐⭐",
+        "name": "Call Me King",
+        "description": "Increase velocity in a true display of skill with 200m remaining after racing calmly.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      },
+      {
+        "rarity": "⭐⭐⭐+",
+        "name": "Prideful King",
+        "description": "Greatly increase velocity in a true display of skill with 200m remaining after racing calmly.",
+        "icon": "/images/umamusume/skill_icons/utx_ico_skill_20013.png"
+      }
+    ],
+    "objectives": [
+      {
+        "objective": "1. Participate in the Junior Make Debut",
+        "turn": "Turn 12",
+        "timing": "Junior Class, Late June",
+        "raceDetails": "Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_9002_00.png"
+      },
+      {
+        "objective": "2. Place 5th or better in the Hopeful Stakes",
+        "turn": "Turn 24 (previous + 11)",
+        "timing": "Junior Class, Late December",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1024_00.png"
+      },
+      {
+        "objective": "3. Place 5th or better in the Satsuki Sho",
+        "turn": "Turn 31 (previous + 6)",
+        "timing": "Classic Class, Early April",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1005_00.png"
+      },
+      {
+        "objective": "4. Place 5th or better in the Tokyo Yushun (Japanese Derby)",
+        "turn": "Turn 34 (previous + 2)",
+        "timing": "Classic Class, Late May",
+        "raceDetails": "G1 – Turf – 2400m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1010_00.png"
+      },
+      {
+        "objective": "5. Participate in the Kikuka Sho",
+        "turn": "Turn 44 (previous + 9)",
+        "timing": "Classic Class, Late October",
+        "raceDetails": "G1 – Turf – 3000m – Long",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1015_00.png"
+      },
+      {
+        "objective": "6. Place 1st in the Takamatsunomiya Kinen",
+        "turn": "Turn 54 (previous + 9)",
+        "timing": "Senior Class, Late March",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1002_00.png"
+      },
+      {
+        "objective": "7. Place 3rd or better in the Yasuda Kinen",
+        "turn": "Turn 59 (previous + 4)",
+        "timing": "Senior Class, Early June",
+        "raceDetails": "G1 – Turf – 1600m – Mile",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1011_00.png"
+      },
+      {
+        "objective": "8. Place 1st in the Sprinters Stakes",
+        "turn": "Turn 66 (previous + 6)",
+        "timing": "Senior Class, Late September",
+        "raceDetails": "G1 – Turf – 1200m – Short",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1013_00.png"
+      },
+      {
+        "objective": "9. Place 1st in the Tenno Sho (Autumn)",
+        "turn": "Turn 68 (previous + 1)",
+        "timing": "Senior Class, Late October",
+        "raceDetails": "G1 – Turf – 2000m – Medium",
+        "bannerImage": "/images/umamusume/en/race_banners/thum_race_rt_000_1016_00.png"
+      }
+    ]
+  }
+]
