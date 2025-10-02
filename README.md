@@ -5,6 +5,7 @@ A React-based race scheduling tool for Uma Musume Pretty Derby's URA scenario. T
 ## Features
 
 ### Core Functionality
+
 - **Visual Character Selection**: Browse and select from a comprehensive roster of Uma Musume characters with thumbnail images
 - **Smart Filtering**: Filter characters by preferred distance (Short/Mile/Medium/Long)
 - **Character Objectives**: Automatically includes mandatory character objective races in the schedule
@@ -16,6 +17,7 @@ A React-based race scheduling tool for Uma Musume Pretty Derby's URA scenario. T
 - **Race Prioritization**: Intelligently scores races based on fan gain, distance preference, and grade
 
 ### UI/UX
+
 - **Responsive Design**: Dark theme inspired by Uma Musume's in-game aesthetic
 - **Smooth Animations**: Polished transitions and hover effects throughout
 - **Step Progress Indicator**: Clear visual feedback of your progress through the wizard
@@ -138,6 +140,7 @@ The app uses an intelligent algorithm to optimize your race schedule:
 ## Character Data
 
 The app includes comprehensive data for each character:
+
 - **Basic Info**: Japanese name, voice actor, release date, birthday, physical stats
 - **Game Stats**: Base stats at different star levels (Speed, Stamina, Power, Guts, Wit)
 - **Stat Bonuses**: Percentage bonuses for each stat
@@ -148,6 +151,7 @@ The app includes comprehensive data for each character:
 ## Race Database
 
 Includes detailed race information:
+
 - Race name, grade, distance, and surface
 - Base fan rewards (before support bonuses)
 - Month/turn when each race is available
